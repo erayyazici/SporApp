@@ -1,0 +1,136 @@
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.BLL.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.BLL.pdb
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.DAL.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\MySql.Data.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Zstandard.Net.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Memory.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Buffers.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.DAL.pdb
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.DAL.dll.config
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\MySql.Data.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Google.Protobuf.pdb
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Renci.SshNet.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Memory.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Buffers.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.csprojAssemblyReference.cache
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CopyComplete
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.dll
+C:\Users\cey_5\OneDrive\Masaüstü\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.pdb
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.BLL.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.BLL.pdb
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.DAL.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Zstandard.Net.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Memory.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Buffers.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.DAL.pdb
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\SporApp.DAL.dll.config
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\Renci.SshNet.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Memory.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Buffers.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.csprojAssemblyReference.cache
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CopyComplete
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.dll
+C:\Users\Eray YAZICI\Yeni klasör\SporApp\SporApp.BLL\obj\Debug\SporApp.BLL.pdb
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.BLL.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.BLL.pdb
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.DAL.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\MySql.Data.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Zstandard.Net.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Memory.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Buffers.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.DAL.pdb
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.DAL.dll.config
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\MySql.Data.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Google.Protobuf.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\Renci.SshNet.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Memory.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Buffers.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.csprojAssemblyReference.cache
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CopyComplete
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.dll
+C:\Users\Eray YAZICI\Desktop\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.pdb
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.BLL.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.BLL.pdb
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.DAL.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\MySql.Data.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Google.Protobuf.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Zstandard.Net.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Ubiety.Dns.Core.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Renci.SshNet.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Memory.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Buffers.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Numerics.Vectors.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.DAL.pdb
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\SporApp.DAL.dll.config
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\MySql.Data.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Google.Protobuf.pdb
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Google.Protobuf.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\Renci.SshNet.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Memory.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Buffers.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Compression.LZ4.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\K4os.Hash.xxHash.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Numerics.Vectors.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.csprojAssemblyReference.cache
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CoreCompileInputs.cache
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.csproj.CopyComplete
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.dll
+C:\Yerel Disk D\Projeler\Proje A\C#\SporApp.BLL\obj\Debug\SporApp.BLL.pdb
